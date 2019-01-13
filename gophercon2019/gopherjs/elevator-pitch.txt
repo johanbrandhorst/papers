@@ -1,0 +1,3 @@
+Ever wanted to try gRPC-Web but didn't want to write JavaScript? Ever wanted to try GopherJS but didn't want to use JSON?
+
+Learn how to use gRPC-Web with GopherJS, so you can write Go web applications talking to a gRPC backend.
